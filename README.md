@@ -1,9 +1,8 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/hemantkumar980)
 <h1 align="center">Hi 👋, I'm KESHAV TANDON</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cutt.ly/XN4CUFE" />
 
-### Hi there 👋
+
 
 # 💫 About Me:
 🌱 I’m currently learning Full Stack Development <br>💬 Ask me about HTML, CSS, JavaScript , ReactJs, MongoDB, Express, NodeJS, Programming<br>
